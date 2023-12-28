@@ -1,0 +1,13 @@
+# Ignore artifacts:
+build
+coverage
+package-lock.json
+
+node_modules
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/.md
+**/*.ts
